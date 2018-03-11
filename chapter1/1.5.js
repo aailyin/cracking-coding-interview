@@ -5,6 +5,8 @@
   pales, pale -> true
   pale, bale  -> true
   pale, bake  -> false
+  
+  Solution:
 */
 
 function check(str1, str2) {
